@@ -12,4 +12,4 @@ Website: [Brevsamling-Kleiven-Prestgard](https://lokalhistoriewiki.no/wiki/Kateg
 
 # Norgesbrev
 Website: [Norgesbrev](https://lokalhistoriewiki.no/wiki/Kjeldearkiv:Liste_over_Norgesbrev)
-
+The collection "Norgesbrev" consists of approximately 90 letters. We hope to include all of these in the NorKorr data set.
