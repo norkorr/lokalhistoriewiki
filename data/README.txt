@@ -28,3 +28,5 @@ DATA & FILE OVERVIEW
 File list (filenames, directory structure (for zipped files) and brief description of all data files):
 
 - Letters between Ivar KLeiven and Kristian Prestgard, CMIF-file (XML)
+- Norgesbrev_1840-1960, tsv-file (status: 2018-10-29)
+  - contains 3342 rows, 19 columns (header: nr,	id,	dato,	nydato,	avsender,	avsfornavn,	avskjonn,	avsadresse,	mottaker,	motfornavn,	motkjonn,	motadresse,	eier,	eierfornavn,	eieradresse,	publisert,	innhold,	anmerkninger,	klausulert)
